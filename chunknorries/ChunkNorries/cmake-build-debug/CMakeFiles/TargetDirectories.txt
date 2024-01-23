@@ -1,0 +1,3 @@
+C:/Users/крис/Downloads/Chunkinzzz-main/ChunkNorries/cmake-build-debug/CMakeFiles/ChunkNorries.dir
+C:/Users/крис/Downloads/Chunkinzzz-main/ChunkNorries/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/крис/Downloads/Chunkinzzz-main/ChunkNorries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
